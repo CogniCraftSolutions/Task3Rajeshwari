@@ -1,4 +1,4 @@
-Hindi to English Translation Quiz
+<h1>Hindi to English Translation Quiz</h1>
 <br><br>
 Develop a basic web page that facilitates a Hindi to English translation quiz. The quiz should allow users to input their responses through voice input and display the correct translations within a designated container.
 <br><br>
