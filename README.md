@@ -13,4 +13,4 @@ Ensure that the quiz is responsive and user-friendly across various devices and 
 Test the functionality of the quiz thoroughly to ensure accurate translation and smooth user experience.<br>
 Provide clear instructions or prompts for users to navigate through the quiz.<br><br>
 
-![image](""C:\Users\Admin\Desktop\Task3Rajeshwari\assets\translate_quiz.png"")
+![image]("C:\Users\Admin\Desktop\Task3Rajeshwari\assets\translate_quiz.png")
